@@ -9,6 +9,7 @@ import CountDisplay from './components/CountDisplay'
 import Header from './components/Header'
 import Cart from './components/Cart'
 
+// I'm so screwed.....
 class App extends Component {
   render() {
     return (
